@@ -69,6 +69,9 @@
 ---
 
 ## 🌐 ช่องทางการติดต่อ (Socials & Contact)
+📱 **Phone:** 062-161-9755
+✉️ **Email:** [68219010012@kbtc.ac.th](mailto:68219010012@kbtc.ac.th)
+
 <p align="left">
   <a href="https://www.github.com/Rapeepat012-sys" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="36" height="36" alt="GitHub" title="GitHub" />
