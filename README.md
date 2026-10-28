@@ -1,4 +1,3 @@
-# 📄 Curriculum Vitae (CV)
 
 <div align="center">
 
